@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>João Fernandes - CV</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, h3 {
+            font-family: 'Georgia', serif;
+            color: #2c3e50;
+        }
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 0.5em;
+        }
+        h2 {
+            font-size: 1.5em;
+            margin-top: 1em;
+        }
+        p {
+            line-height: 1.6;
+        }
+        .contact-info {
+            margin-bottom: 1em;
+        }
+        .contact-info p {
+            margin: 0.2em 0;
+        }
+        .section {
+            margin-bottom: 2em;
+        }
+        .section ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .section li {
+            margin-bottom: 0.5em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>João Fernandes</h1>
+            <div class="contact-info">
+                <p>Email: <a href="mailto:ffernandes.jpff@gmail.com">ffernandes.jpff@gmail.com</a></p>
+                <p>Phone: (+351) 930424496</p>
+                <p>LinkedIn: <a href="https://www.linkedin.com/in/jppffernandes/" target="_blank">linkedin.com/in/jppffernandes</a></p>
+                <p>Location: Portugal</p>
+            </div>
+        </header>
+
+        <section class="section">
+            <h2>About Me</h2>
+            <p>Currently attending the 3rd year of my degree in Computer Engineering, Networks, and Telecommunications at Instituto Superior de Engenharia de Lisboa (ISEL). I have gained valuable experience as a Support Engineer intern at Nokia, and I am continuously enhancing my skills in cybersecurity, AI, and various IT fields through numerous certifications.</p>
+        </section>
+
+        <section class="section">
+            <h2>Work Experience</h2>
+            <ul>
+                <li><strong>Internship as Support Engineer</strong> - Nokia, Lisbon, Portugal (Sep 2023 - Sep 2024)</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2>Education</h2>
+            <ul>
+                <li><strong>Bachelor's Degree in Computer Engineering, Networks, and Telecommunications</strong> - Instituto Superior de Engenharia de Lisboa (ISEL), Lisbon, Portugal</li>
+                <li><strong>Electronic Technician</strong> - CIATE, Lisbon, Portugal</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2>Certifications</h2>
+            <ul>
+                <li>Linux Foundation Cert Prep: System Design and Deployment (Ubuntu) - LinkedIn</li>
+                <li>Linux Foundation Cert Prep: Network Filesystems and File Services (Ubuntu) - LinkedIn</li>
+                <li>Linux Foundation Cert Prep: Essential Commands (Ubuntu) - LinkedIn</li>
+                <li>Linux Foundation Cert Prep: Email Services (Ubuntu) - LinkedIn</li>
+                <li>Threat Modeling: Spoofing in Depth - LinkedIn</li>
+                <li>Threat Hunting Essential Training - LinkedIn</li>
+                <li>The Cybersecurity Threat Landscape - LinkedIn</li>
+                <li>Learning the OWASP Top 10 - LinkedIn</li>
+                <li>Learning Threat Modeling for Security Professionals - LinkedIn</li>
+                <li>Introduction to Career Skills in Data Analytics - LinkedIn</li>
+                <li>Microsoft Career Essentials in System Administration - LinkedIn</li>
+                <li>Microsoft Career Essentials in Generative AI - LinkedIn</li>
+                <li>Google Introduction to AI and Machine Learning on Google Cloud - Coursera</li>
+                <li>ISC2 Certified in Cybersecurity Specialization - Coursera</li>
+                <li>IBM and ISC2 Cybersecurity Specialist - Coursera</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2>Skills</h2>
+            <ul>
+                <li>Information and Communication Technologies</li>
+                <li>System Analysis and Troubleshooting</li>
+                <li>Cybersecurity</li>
+                <li>AI and Machine Learning</li>
+                <li>Network Design and Deployment</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2>Languages</h2>
+            <ul>
+                <li>Portuguese - Native</li>
+                <li>English - Proficient (C2)</li>
+                <li>French - Basic (A2)</li>
+                <li>Spanish - Basic (A2)</li>
+            </ul>
+        </section>
+
+        <footer>
+            <p>© 2024 João Fernandes</p>
+        </footer>
+    </div>
+</body>
+</html>
